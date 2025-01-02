@@ -52,7 +52,7 @@ conda install -c conda-forge scanpy anndata
 
 ```python
 import scanpy as sc
-from separ import SEPAR
+from SEPAR_model import SEPAR
 
 # Load data
 adata = sc.read_h5ad('your_data.h5ad')
