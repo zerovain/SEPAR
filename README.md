@@ -78,7 +78,7 @@ SEPAR has been tested on various spatial transcriptomics datasets, including:
 - osmFISH datasets
 - MISAR-seq datasets
 
-Example notebooks demonstrating the analysis of these datasets can be found in the `examples/` directory.
+Example notebooks demonstrating the analysis of these datasets can be found in the `example/` directory.
 
 ## Parameters
 
